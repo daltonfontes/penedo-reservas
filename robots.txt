@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://penedo-reservas.vercel.app/sitemap.xml
