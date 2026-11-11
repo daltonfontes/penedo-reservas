@@ -1,0 +1,11 @@
+{
+  "name": "Penedo Reservas",
+  "short_name": "Penedo Reservas",
+  "description": "Hospedagens em Penedo-RJ escolhidas pela Jussara Coutinho.",
+  "lang": "pt-BR",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#f6f3ec",
+  "theme_color": "#2f5a3c",
+  "icons": [{ "src": "icone.png", "sizes": "180x180", "type": "image/png" }]
+}
